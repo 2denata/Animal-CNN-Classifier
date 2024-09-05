@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/Python-red?style=for-the-badge&logo=python) 
+
 # Animal Image Classification using CNN
 
 This project implements a Convolutional Neural Network (CNN) to classify images of three animal categories: cat, dog, and tiger. The model is built using TensorFlow and Keras and utilizes image augmentation techniques to enhance its performance.
