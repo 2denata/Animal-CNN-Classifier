@@ -10,7 +10,7 @@ This project implements a Convolutional Neural Network (CNN) to classify images 
 - Image augmentation techniques like zooming, shearing, and flipping to improve generalization.
 
 # Dataset
-The dataset contains images of cats, dogs, and tigers organized into separate directories for training and testing. The dataset can be downloaded from [this link]([https://drive.google.com/file/d/1a_oH1olkINKoJjhngNe8aMeEi3-xSqUp/view?usp=sharing](https://drive.google.com/file/d/1a_oH1olkINKoJjhngNe8aMeEi3-xSqUp/view?usp=sharing)).
+The dataset contains images of cats, dogs, and tigers organized into separate directories for training and testing. The dataset can be downloaded from [this link](https://drive.google.com/file/d/1a_oH1olkINKoJjhngNe8aMeEi3-xSqUp/view?usp=sharing).
 
 # Model Architecture
 - **Convolutional Layers**: Extract features from images.
@@ -60,3 +60,9 @@ The model is trained for 25 epochs with a batch size of 32. After training, the 
 
 # Example Prediction
 Once trained, the model can predict the class of a given image. For example, you can classify a new image of a cat, dog, or tiger by running the prediction section of the code.
+![image](https://github.com/user-attachments/assets/28aa4f71-6610-4104-9671-ec8b6b70c180)
+![image](https://github.com/user-attachments/assets/03acb1b0-7c38-4b15-98a4-794be094d369)
+![image](https://github.com/user-attachments/assets/b0480066-2805-4eaf-bb2b-0aff11d8dbbd)
+
+
+
