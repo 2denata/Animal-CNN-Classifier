@@ -34,7 +34,7 @@ pip install tensorflow keras numpy matplotlib
 # How to Run
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/Animal-Image-Classification-CNN.git
+git clone https://github.com/2denata/Animal-Image-Classification-CNN.git
 ```
 2. Download the dataset and place it in a datasets/ folder with the following structure:
 ```markdown
